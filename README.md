@@ -15,7 +15,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone [https://github.com/your-username/your-repository](https://github.com/priyanshusharma44/6-Flutter_Images-Assets).git
+git clone (https://github.com/priyanshusharma44/6-Flutter_Images-Assets).git
 Open the project in your preferred Flutter development environment.
 
 Run the app on an emulator or physical device.
