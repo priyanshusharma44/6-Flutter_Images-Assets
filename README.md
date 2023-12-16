@@ -23,10 +23,9 @@ Run the app on an emulator or physical device.
 Explore the functionalities of the app, including the custom AppBar, body content, and the FloatingActionButton.
 
 Screenshots
-![App Screenshot]([screenshots/app_screenshot.png](https://github.com/priyanshusharma44/6-Flutter_Images-Assets/blob/main/Screenshot%202023-12-16%20132032.png))
+![App Screenshot](https://github.com/priyanshusharma44/6-Flutter_Images-Assets/blob/main/Screenshot%202023-12-16%20132032.png)
 
 
-Dependencies
 List any dependencies required to run the project. For example:
 
 yaml
