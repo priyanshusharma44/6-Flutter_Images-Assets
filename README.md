@@ -2,7 +2,7 @@ Images & Assets
 -This Flutter project demonstrates the usage of Scaffolds and Widgets to create a simple mobile app. The app includes a custom AppBar, a body with an image and text, and a FloatingActionButton.
 
 Features
--Custom AppBar: The app features a custom AppBar with a title "Scaffolds And Widgets" styled with white text, a font size of 25.0, and a red background color.
+-Custom AppBar: The app features a custom AppBar with a title "Imaages and Assets" styled with white text, a font size of 25.0, and a red background color.
 
 Body Content: 
 -The body of the app consists of a centered Column containing an image and text.
